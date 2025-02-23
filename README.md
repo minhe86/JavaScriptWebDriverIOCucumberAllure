@@ -1,4 +1,4 @@
-# Automation Framework with JavaScript, WebDriverIO, Selenium webdriver, Cucumber, Allure, NPM.
+# Automation Framework with JavaScript, WebDriverIO, Cucumber, Allure, NPM.
 
 WebDriverIO can be run on the WebDriver protocol for true cross-browser testing, as well as on Chrome DevTools protocol for Chromium-based automation using Puppeteer. WebDriverIO can do the same things that Selenium can, but also comes with lots of integrations with popular test automation tools and plugins.
 
